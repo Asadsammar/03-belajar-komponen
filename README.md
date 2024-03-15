@@ -22,10 +22,11 @@ bun dev
 | Kelas | TI - 3X |
 
 
-### Jawaban Soal 1
+### Question 1
+Change the contents of the code Home()so that it can appear as follows by utilizing the components Profile()that were created in step 1!
 
-Bukti setup environment telah berhasil di  komputer.
+![Screenshot](assets/01.png)
 
-![Screenshot](assets-report/01.png)
+![Screenshot](assets/02.png)
 
 Contoh perubahan.
