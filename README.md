@@ -28,5 +28,11 @@ Change the contents of the code Home()so that it can appear as follows by utiliz
 ![Screenshot](assets/01.png)
 
 ![Screenshot](assets/02.png)
+## Question 2
+Capture the results and create a report in README.md . Explain what you have learned and how does it look now?
+
+![Screenshot](assets/03.png)
+
+![Screenshot](assets/04.png)
 
 Contoh perubahan.
