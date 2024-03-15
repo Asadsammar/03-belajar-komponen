@@ -22,29 +22,12 @@ import Bio from "./components/bio";
 
 export default function Home() {
   return (
-
-    <div>
-      <Bio/>
-    </div>
-    //<section>
-      //<h1 className="font-semibold text-slate-900 truncate pr-20 text-center">Ilmuwan yang luar biasa</h1>
-      //<hr />
-      //<Gallery />
-      //<hr />
-      //<TodoList />
-    //</section>
-    /*<div className="mb-32 grid text-center lg:max-w-5xl lg:w-full lg:mb-0 lg:grid-cols-3 lg:text-left">
-      <main>
-        <p>Ilmuwan yang luar biasa</p>
-        <a 
-          className="pointer-events-none flex place-items-center gap-2 p-8 lg:pointer-events-auto lg:p-0"
-          href="https://vercel.com?utm_source=create-next-app&utm_medium=appdir-template&utm_campaign=create-next-app"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          <Gallery />
-        </a>
-      </main>
-    </div>*/
+    <section>
+      <h1 className="font-semibold text-slate-900 truncate pr-20 text-center">Ilmuwan yang luar biasa</h1>
+      <hr />
+      <Gallery />
+      <hr />
+      <TodoList />
+    </section>
   );
 }

@@ -44,5 +44,13 @@ Please correct the following JSX code. You may use a converter or repair it manu
 ![Screenshot](assets/05.png)
 
 ![Screenshot](assets/06.png)
+## Question 4
+The code above still contains errors, please correct them.
+
+![Screenshot](assets/07.png)
+## Question 5
+Open the file src/components/todolist.tsxand extract the image URL into an object person.
+
+![Screenshot](assets/08.png)
 
 Contoh perubahan.
