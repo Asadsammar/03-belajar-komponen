@@ -18,10 +18,22 @@ export default function Home() {
 }*/
 import { Gallery } from "./components/gallery";
 import TodoList from "./components/todolist";
+import Bio from "./components/bio";
 
 export default function Home() {
   return (
-    <div className="mb-32 grid text-center lg:max-w-5xl lg:w-full lg:mb-0 lg:grid-cols-3 lg:text-left">
+
+    <div>
+      <Bio/>
+    </div>
+    //<section>
+      //<h1 className="font-semibold text-slate-900 truncate pr-20 text-center">Ilmuwan yang luar biasa</h1>
+      //<hr />
+      //<Gallery />
+      //<hr />
+      //<TodoList />
+    //</section>
+    /*<div className="mb-32 grid text-center lg:max-w-5xl lg:w-full lg:mb-0 lg:grid-cols-3 lg:text-left">
       <main>
         <p>Ilmuwan yang luar biasa</p>
         <a 
@@ -33,6 +45,6 @@ export default function Home() {
           <Gallery />
         </a>
       </main>
-    </div>
+    </div>*/
   );
 }

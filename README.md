@@ -36,6 +36,13 @@ Capture the results and create a report in README.md . Explain what you have lea
 ![Screenshot](assets/04.png)
 ## Answer
 I got that after making components i can use them anywhere anytime.
-About the interface, it is slightly changed because the picture doesn't have <div> like before.
+About the interface, it is slightly changed because the picture doesn't have 'div' like before.
+
+## Question 3
+Please correct the following JSX code. You may use a converter or repair it manually.
+
+![Screenshot](assets/05.png)
+
+![Screenshot](assets/06.png)
 
 Contoh perubahan.
