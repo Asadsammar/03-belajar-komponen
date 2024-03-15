@@ -52,5 +52,12 @@ The code above still contains errors, please correct them.
 Open the file src/components/todolist.tsxand extract the image URL into an object person.
 
 ![Screenshot](assets/08.png)
+## Question 6
+Correct the code in the attributes section src. You can adjust other codes from the answers to the previous.
+To check if your fix was successful, try changing the value from imageSizeto 'b'. Images should adjust to size after conversion.
+
+![Screenshot](assets/09.png)
+
+![Screenshot](assets/10.png)
 
 Contoh perubahan.
