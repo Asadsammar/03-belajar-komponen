@@ -34,5 +34,8 @@ Capture the results and create a report in README.md . Explain what you have lea
 ![Screenshot](assets/03.png)
 
 ![Screenshot](assets/04.png)
+## Answer
+I got that after making components i can use them anywhere anytime.
+About the interface, it is slightly changed because the picture doesn't have <div> like before.
 
 Contoh perubahan.
