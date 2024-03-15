@@ -17,9 +17,9 @@ bun dev
 
 |  | Pemrograman Berbasis Framework 2024 |
 |--|--|
-| NIM |  1234567|
-| Nama |  Fulan Bin Fulan |
-| Kelas | TI - 3X |
+| NIM |  2141720269|
+| Nama |  Muhammad Asad |
+| Kelas | TI - 3I |
 
 
 ### Question 1
