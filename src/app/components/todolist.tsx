@@ -8,15 +8,16 @@ const person = {
       color: 'pink'
     }
   };
-
-const imageUrl = `${baseUrl}${person.imageId}${person.imageSize}.jpg`;
-
-export default function TodoList() {
+  
+  export default function TodoList() {
     return (
-      <div style={person.theme}>
-        <h1>{person.name}'s Todos</h1>
+        <div style={person.theme}>
+        <h1>
+          {person.name}'s Todos
+        </h1>
         <img
-          src={imageUrl}
+          className="avatar"
+          src={`${baseUrl}${person.imageId}${person.imageSize}.jpg`}
           alt={person.name}
         />
         <ul>
@@ -26,4 +27,4 @@ export default function TodoList() {
         </ul>
       </div>
     );
-}
+  }

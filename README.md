@@ -59,5 +59,18 @@ To check if your fix was successful, try changing the value from imageSizeto 'b'
 ![Screenshot](assets/09.png)
 
 ![Screenshot](assets/10.png)
+## Question 7
+If the code above contains an error, please correct it.
+
+This component MyGallerycontains two exactly the same markup. Extract it into components MyProfileto reduce duplication. You need to choose what props will be sent.
+
+![Screenshot](assets/11.png)
+
+## Question 8
+If the code above contains an error, please correct it.
+
+Change the component MyAvatarto process the image size based on the prop size. Specifically, if sizeit is less than 90, pass 's'("small") instead of 'b'("big") to the function getImageUrl. Make sure that the changes you make work by rendering the avatars with sizedifferent prop values ​​and opening the image in a new tab in the browser.
+
+![Screenshot](assets/12.png)
 
 Contoh perubahan.
